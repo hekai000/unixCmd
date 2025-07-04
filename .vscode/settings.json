@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "*.s": "assembly",
+        "stdio.h": "c",
+        "types.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "socket.h": "c",
+        "in.h": "c",
+        "dgram.h": "c",
+        "signal.h": "c",
+        "errno.h": "c",
+        "un.h": "c",
+        "ctype.h": "c",
+        "stat.h": "c",
+        "pthread.h": "c",
+        "shm.h": "c",
+        "time.h": "c",
+        "file.h": "c",
+        "sem.h": "c"
+    }
+}
